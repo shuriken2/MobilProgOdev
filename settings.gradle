@@ -1,0 +1,2 @@
+rootProject.name = "MobilProgOdev"
+include ':app'
